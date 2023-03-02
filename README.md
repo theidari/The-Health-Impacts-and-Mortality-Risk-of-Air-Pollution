@@ -46,30 +46,6 @@ Understanding the severity of air pollution and the burden of disease and mortal
 <h2>Resources</h2>
 <sup>[1]</sup> World Health Organization (WHO): <a href="https://www.who.int/data/gho/data/themes/air-pollution/who-air-quality-database
 "> WHO Air Quality Database </a> <b>|</b> <a href="https://www.who.int/teams/environment-climate-change-and-health/air-quality-and-health/health-impacts
-"> Health Impacts </a> <b>|</b> 
-
-
-
-
-https://www.who.int/teams/environment-climate-change-and-health/air-quality-and-health/health-impacts/types-of-pollutants
-
-https://www.who.int/teams/environment-climate-change-and-health/air-quality-and-health/health-impacts/exposure-air-pollution
-       
-Global Alliance on Health and Pollution (GAHP)  
-
-Link: 
-
-https://gahp.net/wp-content/uploads/2019/12/PollutionandHealthMetrics-final-12_18_2019.pdf
-
-
-
-kaggle.com (@article{owidairpollution)
-
-Links: 
-
-https://www.kaggle.com/datasets/programmerrdai/air-pollution?select=death-rates-from-air-pollution.csv
-
-https://www.kaggle.com/datasets/programmerrdai/outdoor-air-pollution?select=PM25-air-pollution.csv
-
-
-
+"> Health Impacts </a> <b>|</b> <a href="https://www.who.int/teams/environment-climate-change-and-health/air-quality-and-health/health-impacts/types-of-pollutants"> Types of Pollutants </a> <b>|</b> <a href="https://www.who.int/teams/environment-climate-change-and-health/air-quality-and-health/health-impacts/exposure-air-pollution"> Exposure Air Pollution </a><br>
+<sup>[2]</sup> Global Alliance on Health and Pollution (GAHP): <a href="https://gahp.net/wp-content/uploads/2019/12/PollutionandHealthMetrics-final-12_18_2019.pdf"> Pollutionand Health Metrics</a><br>
+<sup>[3]</sup> kaggle.com (@article{owidairpollution):<a href="https://www.kaggle.com/datasets/programmerrdai/air-pollution?select=death-rates-from-air-pollution.csv"> Death Rates from Air Pollution </a> <b>|</b> <a href="https://www.kaggle.com/datasets/programmerrdai/outdoor-air-pollution?select=PM25-air-pollution.csv"> Outdoor Air Pollution </a>
