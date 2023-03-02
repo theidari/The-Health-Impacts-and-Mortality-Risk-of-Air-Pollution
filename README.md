@@ -1,7 +1,8 @@
 <h1>The Health Impacts and Mortality Risk of Air Pollution</h1>
 
 ![AirQualityDashboard](https://user-images.githubusercontent.com/114210481/221664041-0066fd05-0402-494c-ab89-2633a06173d4.png)
-
+<h5>Purpose:</h5>
+<p align="justify">The primary objective of this study is to comprehensively investigate the health implications and mortality risks associated with different forms of air pollution, including ambient household air pollution, ambient particulate matter pollution, ambient ozone pollution, and air pollution caused by the use of solid fuels. By analyzing exposure to these various types of air pollution, we aim to obtain a better understanding of the associated risks and identify potential approaches to mitigate its adverse effects on human health. This study is expected to contribute significantly to the current knowledge on the health impacts of air pollution and inform public health policies and interventions aimed at improving air quality and protecting human health.</p>
 
 
 Purpose:
