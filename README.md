@@ -28,27 +28,10 @@ The analysis compares the causes of death due to various diseases with the impac
 The analysis examines the top 10 countries where air pollution is a major cause of death, categorized by the type of air pollution, such as household pollutants or ozone.
 </ol>
 
-Scope:
+<h3>Limitations:</h3>
+<p align="justify">The study is limited by the availability and quality of data, which may vary by country and over time. In addition, the study focuses on selected types of air pollution and does not cover all possible sources of air pollution, such as industrial emissions or transportation-related pollution.</p>
 
-
-
-
-
-Limitations:
-
-
-The study is limited by the availability and quality of data, which may vary by country and over time. In addition, the study focuses on selected types of air pollution and does not cover all possible sources of air pollution, such as industrial emissions or transportation-related pollution.
-
-
-
-Overview:
-
-
-The study involves analyzing air quality data from different countries as well as mortality rate and disease burden data related to air pollution. We used modeling technique like interactive vivisualizations to present the spatial distribution of pollutants such as PM25, PM10, and NO2 their ambient concentrations across different countries, quantifying air pollution,burden of disease and mortality rates. These pollutants, in addition to other pollutants vary across the globe and may result in different concentrations of air pollution  country to country.
-
-
-Conclusions:
-
+<h2>Conclusions</h2>
 Pollutants such as PM2.5, PM10, and NO2 allow scientists to estimate the spatial distribution of their ambient concentrations across different countries, quantifying air pollution,burden of disease and mortality rates. These pollutants, in addition to other pollutants vary across the globe and may result in different concentrations of air pollution from city to city, and country to country.
 
 Based on our analysis, it can be concluded that air pollution is among the top five factors contributing to mortality rates and burden of disease worldwide.
@@ -57,16 +40,8 @@ It can be deduced that similar age groups (i.e., under 5, 5-14, 15-49, 50-69, 70
 
 Understanding the severity of air pollution and the burden of disease and mortality rates related to it is important for public health officials, policymakers, and healthcare providers, as it can help them to prioritize resources and develop interventions to reduce the impact of the disease on the population.
 
-
-
-
-
-
-Sources:
-
-World Health Organization (WHO)
-
-Links: 
+<h2>Resources</h2>
+<sup>[1]</sup> World Health Organization (WHO)
 
 https://www.who.int/data/gho/data/themes/air-pollution/who-air-quality-database
 
@@ -76,8 +51,6 @@ https://www.who.int/teams/environment-climate-change-and-health/air-quality-and-
 
 https://www.who.int/teams/environment-climate-change-and-health/air-quality-and-health/health-impacts/exposure-air-pollution
        
-
-
 Global Alliance on Health and Pollution (GAHP)  
 
 Link: 
