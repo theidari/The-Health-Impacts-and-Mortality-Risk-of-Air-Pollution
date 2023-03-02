@@ -1,21 +1,37 @@
 <h1>The Health Impacts and Mortality Risk of Air Pollution</h1>
-<h3>Research Overview</h3>
+<h2>Research Overview</h2>
 <p align="justify">This study aims to comprehensively analyze air quality data from various countries and assess the associated mortality rates and disease burden caused by air pollution. Using modeling techniques such as interactive visualizations, we will present the spatial distribution of pollutants, including PM25, PM10, and NO2, and their ambient concentrations across different countries. By quantifying the burden of disease and mortality rates associated with air pollution, we will identify the impact of these pollutants on human health. Moreover, given the variable concentrations of these pollutants across the globe, we will analyze the different levels of air pollution in each country to better understand the variations in air quality and its associated health risks. The outcomes of this study will provide valuable insights into the global health impact of air pollution and contribute to the development of policies and interventions aimed at mitigating its harmful effects.<p>
 <h6 align="center">Fig[1]: Project Dashboard Overview</h6>
 <img align="center" src="https://user-images.githubusercontent.com/114210481/221664041-0066fd05-0402-494c-ab89-2633a06173d4.png" width="900px" alt="Air Quality Dashboard">
-<h5>Purpose:</h5>
-<p align="justify">The primary objective of this study is to comprehensively investigate the health implications and mortality risks associated with different forms of air pollution, including ambient household air pollution, ambient particulate matter pollution, ambient ozone pollution, and air pollution caused by the use of solid fuels. By analyzing exposure to these various types of air pollution, we aim to obtain a better understanding of the associated risks and identify potential approaches to mitigate its adverse effects on human health. This study is expected to contribute significantly to the current knowledge on the health impacts of air pollution and inform public health policies and interventions aimed at improving air quality and protecting human health.</p>
 
+<h3>Scope:</h3>
+<p align="justify">The study covers a period of 5 years (2015-2019) and includes data on air quality, mortality rates, and disease burden associated with air pollution from a variety of countries. The focus is on the health impacts and mortality risk associated with exposure to ambient household air pollution, ambient particulate matter pollution, ambient ozone pollution, and air pollution caused by solid fuels.</p>
 
-Purpose:
+<h3>Research Questions</h3>
+<ol align="justify">
+<li><b>Ambient Air Quality Data</b></li>
+The analysis focuses on the air quality levels, specifically PM25, PM10, and NO2, in the top 10 countries.
 
+<li><b>AQ Pollution Mortality Data</b></li>
+The analysis compares the causes of death due to different types of pollution with the impact of air pollution.
 
-The purpose of this study is to investigate the health impacts and mortality risk of air pollution, including ambient household air pollution, ambient particulate matter pollution, ambient ozone pollution, and air pollution caused by solid fuels. By examining exposure to these types of pollution, we aim to gain a better understanding of the risks associated with air pollution and identify potential strategies to mitigate its harmful effects on human health.
+<li><b>Outdoor Pollution Rates by Ages</b></li>
+The analysis focuses on the top 10 countries where air pollution is a leading cause of death across different age groups, with the aim of determining whether it disproportionately affects either the young or the old.
+
+<li><b>Disease burden by Risk Factor</b></li>
+The analysis involves comparing the Disability-Adjusted Life Years (DALY) attributed to various diseases .
+
+<li><b>Number of death by Risk factors</b></li>
+The analysis compares the causes of death due to various diseases with the impact of air pollution in the top 10 countries.
+
+<li><b>Death Rates from Air pollution</b></li>
+The analysis examines the top 10 countries where air pollution is a major cause of death, categorized by the type of air pollution, such as household pollutants or ozone.
+</ol>
 
 Scope:
 
 
-The study covers a period of 5 years (2015-2019) and includes data on air quality, mortality rates, and disease burden associated with air pollution from a variety of countries. The focus is on the health impacts and mortality risk associated with exposure to ambient household air pollution, ambient particulate matter pollution, ambient ozone pollution, and air pollution caused by solid fuels.
+
 
 
 Limitations:
