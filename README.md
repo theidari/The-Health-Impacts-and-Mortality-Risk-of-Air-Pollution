@@ -1,5 +1,5 @@
 <h1>The Health Impacts and Mortality Risk of Air Pollution</h1>
-<h3>Project Overview</h3>
+<h3>Research Overview</h3>
 <p align="justify">This study aims to comprehensively analyze air quality data from various countries and assess the associated mortality rates and disease burden caused by air pollution. Using modeling techniques such as interactive visualizations, we will present the spatial distribution of pollutants, including PM25, PM10, and NO2, and their ambient concentrations across different countries. By quantifying the burden of disease and mortality rates associated with air pollution, we will identify the impact of these pollutants on human health. Moreover, given the variable concentrations of these pollutants across the globe, we will analyze the different levels of air pollution in each country to better understand the variations in air quality and its associated health risks. The outcomes of this study will provide valuable insights into the global health impact of air pollution and contribute to the development of policies and interventions aimed at mitigating its harmful effects.<p>
 <h6 align="center">Fig[1]: Project Dashboard Overview</h6>
 <img align="center" src="https://user-images.githubusercontent.com/114210481/221664041-0066fd05-0402-494c-ab89-2633a06173d4.png" width="900px" alt="Air Quality Dashboard">
