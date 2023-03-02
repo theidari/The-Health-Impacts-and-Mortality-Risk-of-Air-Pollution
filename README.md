@@ -1,8 +1,4 @@
-# Project-3_Group-13
-
-
-"The Health Impacts and Mortality Risk of Air Pollution"
-
+<h1>The Health Impacts and Mortality Risk of Air Pollution</h1>
 
 ![AirQualityDashboard](https://user-images.githubusercontent.com/114210481/221664041-0066fd05-0402-494c-ab89-2633a06173d4.png)
 
