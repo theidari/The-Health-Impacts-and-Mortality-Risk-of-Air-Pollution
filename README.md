@@ -33,7 +33,13 @@ The analysis examines the top 10 countries where air pollution is a major cause 
 </ul>
 <h2>Project Structure</h2>
 <h3>Data Exploration and Cleaning</h3>
+<p align="justify">The data was obtained by employing various techniques, including web scraping, API requests, and manual downloads from reputable sources such as the World Health Organization (WHO), the Global Alliance on Health and Pollution (GAHP), and kaggle.com.</p>
 
+<h3>DATA BASE MANAGEMENT</h3>
+<p align="justify">In our web applications, the PostgreSQL database management system serves as the primary means of data storage. To facilitate seamless access to the stored data, we employ a Python Flask API.</p>
+
+Subsequently, Python and Jupyter Notebook were utilized for the purpose of data cleaning.
+<h2>Analysis</h2>
 <h2>Conclusions</h2>
 Pollutants such as PM2.5, PM10, and NO2 allow scientists to estimate the spatial distribution of their ambient concentrations across different countries, quantifying air pollution,burden of disease and mortality rates. These pollutants, in addition to other pollutants vary across the globe and may result in different concentrations of air pollution from city to city, and country to country.
 
