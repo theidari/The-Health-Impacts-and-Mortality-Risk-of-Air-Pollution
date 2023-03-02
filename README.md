@@ -45,10 +45,11 @@ Understanding the severity of air pollution and the burden of disease and mortal
 
 <h2>Resources</h2>
 <sup>[1]</sup> World Health Organization (WHO): <a href="https://www.who.int/data/gho/data/themes/air-pollution/who-air-quality-database
-"> WHO Air Quality Database</a>
+"> WHO Air Quality Database </a> <b>|</b> <a href="https://www.who.int/teams/environment-climate-change-and-health/air-quality-and-health/health-impacts
+"> Health Impacts </a> <b>|</b> 
 
 
-https://www.who.int/teams/environment-climate-change-and-health/air-quality-and-health/health-impacts
+
 
 https://www.who.int/teams/environment-climate-change-and-health/air-quality-and-health/health-impacts/types-of-pollutants
 
