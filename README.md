@@ -40,6 +40,14 @@ The analysis examines the top 10 countries where air pollution is a major cause 
 
 Subsequently, Python and Jupyter Notebook were utilized for the purpose of data cleaning.
 <h2>Analysis</h2>
+<ul>
+<li><h4>Ambient Air Quality Data</h4></li>
+<div>
+<img align="right" src="https://github.com/theidari/The-Health-Impacts-and-Mortality-Risk-of-Air-Pollution/blob/main/assets/banner.png" width="400px" hight="500 "alt="The Health Impacts and Mortality Risk of Air Pollution">The analysis focuses on the air quality levels, specifically PM2.5, PM10, and NO2, in the top 10 countries, with the objective of evaluating the severity of air pollution in these countries
+</div>
+<li><h4>Outdoor Pollution Rates by Ages</h4></li>
+The analysis focuses on the air quality levels, specifically PM2.5, PM10, and NO2, in the top 10 countries, with the objective of evaluating the severity of air pollution in these countries
+</ul>
 <h2>Conclusions</h2>
 Pollutants such as PM2.5, PM10, and NO2 allow scientists to estimate the spatial distribution of their ambient concentrations across different countries, quantifying air pollution,burden of disease and mortality rates. These pollutants, in addition to other pollutants vary across the globe and may result in different concentrations of air pollution from city to city, and country to country.
 
